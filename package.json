@@ -19,7 +19,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://annaostapenko22.github.io/Todo-List-React-/",
+  "homepage": "https://annaostapenko22.github.io/Todo-List-React-",
   "eslintConfig": {
     "extends": "react-app"
   },
