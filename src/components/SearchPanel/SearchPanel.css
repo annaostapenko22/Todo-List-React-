@@ -1,0 +1,6 @@
+.search-panel .search-input {
+    width: 300px;
+    flex-grow: 1;
+    margin-right: 3px;
+    vertical-align: middle;
+}

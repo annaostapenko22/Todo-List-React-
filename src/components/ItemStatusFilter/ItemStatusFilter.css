@@ -1,0 +1,8 @@
+.btn-group {
+    margin-bottom: 5px;
+    width: 35%;
+}
+
+.btn.btn-info:not(:last-of-type) {
+    margin-right: 4px;
+}
